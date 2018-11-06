@@ -11,4 +11,4 @@ echo "This is the Authorized Keys File for the Authorized Keys of the User" > au
 sudo cp ~/authorized_keys /home/munir_test/.ssh
 sudo chown munir_test:munir_test /home/munir_test/.ssh
 sudo chown munir_test:munir_test /home/munir_test/.ssh/authorized_keys
-#sudo su - $username -c 'command goes here'
+#sudo su - $username -c 'command goes here' 
